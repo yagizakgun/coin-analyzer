@@ -1,0 +1,15 @@
+requests
+python-dotenv
+python-binance
+google-generativeai
+pandas
+pandas-ta
+setuptools
+numpy==1.26.3
+python-coinmarketcap
+aiohttp
+httpx
+Flask
+markdown2
+Flask-CORS
+python-telegram-bot
